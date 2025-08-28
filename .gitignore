@@ -1,0 +1,30 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Unity auto-generated files
+sysinfo.txt
+*.pidb
+*.booproj
+*.svd
+
+# Visual Studio / Rider / VSCode
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.userprefs
+*.dll
+*.exe
+*.apk
+*.aab
+
+# OS
+.DS_Store
+Thumbs.db
