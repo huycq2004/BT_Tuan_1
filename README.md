@@ -12,8 +12,8 @@ Mở **terminal / cmd** và chạy lần lượt:
 ```bash
 
 git lfs install
-git clone [https://github.com/huycq2004/BT\_Tuan\_1.git](https://github.com/huycq2004/BT_Tuan_1.git)
-cd BT\_Tuan\_1
+git clone https://github.com/huycq2004/BT_Tuan_1.git
+cd BT_Tuan_1
 git lfs pull
 git lfs checkout
 
